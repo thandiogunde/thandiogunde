@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thandiogunde
 - 👀 I’m interested in ... Web and App Design
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thandiogunde@gmail.com
 
 <!---
